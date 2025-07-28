@@ -53,15 +53,25 @@ This repository chronicles my step-by-step progression in mastering core data an
 ## 📂 **Repository Structure**
 Data-Analytics-Learning/
 ├── 1_Pandas_Data_Cleaning/
+
 │ ├── sales_data_cleaning.ipynb
+
 │ └── dataset_raw.csv
+
 ├── 2_Matplotlib_Seaborn_Visualization/
+
 │ ├── covid19_analysis.ipynb
+
 │ └── visuals/ (plots exported as PNG)
+
 ├── 3_Full_Data_Analytics_Project/
+
 │ ├── job_market_analysis.ipynb
+
 │ ├── sql_queries.sql
+
 │ └── powerbi_dashboard.pbix
+
 └── README.md
 
 
@@ -71,7 +81,8 @@ Data-Analytics-Learning/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/vidhi-sys/Data Analytics.git
-   📌 Key Insights
+   
+📌 Key Insights
 Data Cleaning: Automated workflows reduced manual effort by 70%.
 
 Visualization: Identified 3 key outliers in sales data using box plots.
